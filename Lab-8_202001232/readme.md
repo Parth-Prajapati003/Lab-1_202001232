@@ -4,7 +4,7 @@
 
 ### 1. Creating a new Eclipse project, package and the class.
 
-![image](https://user-images.githubusercontent.com/91343049/233318288-707734f7-020f-4004-9f9f-7bd33388f0bc.png)
+![1](https://user-images.githubusercontent.com/124187868/233606659-4f30a3f6-fc57-4f26-bf0c-8df04d0266f4.png)
 
 
 ### 2. Test method for the Boa class :
@@ -34,8 +34,7 @@ public class BoaTest {
   }
 }
 ```
-![image](https://user-images.githubusercontent.com/91343049/233318441-77033f0e-e63f-488a-bb26-b48b412fbd55.png)
-
+![2](https://user-images.githubusercontent.com/124187868/233606734-0de05e07-ab71-4414-be5c-987fae47c763.png)
 
 ### 3. Modified setUp() method in the BoaTest class :
 ```
@@ -52,8 +51,8 @@ public class BoaTest {
     // write test methods here
 }
 ```
-![image](https://user-images.githubusercontent.com/91343049/233318630-c7d95167-8379-43c1-bcdf-dd3c2d75c9ce.png)
 
+![3](https://user-images.githubusercontent.com/124187868/233606762-5e0537f6-69b2-4047-8ee9-244aa2c26eb5.png)
 
 ### 4. Modified testIsHealthy() method in the BoaTest class :
 ```
